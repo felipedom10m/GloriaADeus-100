@@ -2,9 +2,10 @@
   "email": "teste@teste.com",
   "produto": "GloriaADeus-100",
   "upsells_comprados": [
-    2
+    2,
+    "Pudim"
   ],
-  "data": "2025-08-15T13:14:07.177Z",
-  "transacao_id": "test_273065",
+  "data": "2025-08-15T13:14:52.416Z",
+  "transacao_id": "test-pix-1755263692416",
   "acesso_liberado": true
 }
